@@ -1,2 +1,2 @@
-# DoMainProject
+# MainProject
 Main project
